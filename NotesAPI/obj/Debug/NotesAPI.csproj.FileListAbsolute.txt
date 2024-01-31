@@ -1,0 +1,2 @@
+C:\Users\dsulowski\source\repos\NotesAPI\NotesAPI\obj\Debug\NotesAPI.csproj.AssemblyReference.cache
+C:\Users\dsulowski\source\repos\NotesAPI\NotesAPI\obj\Debug\NotesAPI.csproj.CoreCompileInputs.cache
